@@ -18,7 +18,7 @@ First things first: a librarian must know how to view all the books in the libra
 
 #### __Request Methods__
 
-When making an HTTP call to a server, specify a request method that indicates the type of operation to perform. These are also called HTTP verbs. Some common HTTP request methods correspond to the CRUD operations:
+When making an HTTP call to a server, specify a request method that indicates the type of operation to perform. These are also called __HTTP verbs__. Some common HTTP request methods correspond to the CRUD operations:
 
 | Method Name | Operation |
 |-------------|------------|

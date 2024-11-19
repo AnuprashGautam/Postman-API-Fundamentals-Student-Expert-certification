@@ -27,6 +27,8 @@ These are just conventions! Some APIs might ask you to pass an ID or username in
 
 #### __When to Use Path Variables?__
 
-Always read the API documentation! If a path parameter is required, the documentation will mention this. Note that some API documentation uses colon syntax to represent a wildcard in the path like `/users/:username`, while some use curly braces like `/users/{username}`. They both mean the same thing: that part of the path is dynamic!
+Always read the API documentation! If a path parameter is required, the documentation will mention this. 
+
+Note that some API documentation uses colon syntax to represent a wildcard in the path like `/users/:username`, while some use curly braces like `/users/{username}`. They both mean the same thing: that part of the path is dynamic!
 
 Next, we will use the path variable with the Postman Library API v2 to get a specific book.
